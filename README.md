@@ -20,7 +20,7 @@ This is a simple FAQ Chatbot that answers user questions based on predefined FAQ
 ### 💬 Conversation Example
 ![Chat](chat.png)
 ### ❌ Unknown Question Handling
-![unknown](unknown.png)
+![unknow](unknow.png)
 ## ▶️ How to Run
 1. Install dependencies:pip install flask scikit-learn
 2. Run the application:python app.py
