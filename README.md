@@ -15,6 +15,17 @@ This is a simple FAQ Chatbot that answers user questions based on predefined FAQ
 - HTML, CSS (Bootstrap)  
 - Scikit-learn (TF-IDF, Cosine Similarity)  
 ## 📸 Screenshots
-![all features](all features.png)
+### 🖥️ Chat UI
+![UI](ui.png)
+### 💬 Conversation Example
+![Chat](chat.png)
+### ❌ Unknown Question Handling
+![Unknown](unknown.png)
 ## ▶️ How to Run
-1. Install dependencies:
+1. Install dependencies:pip install flask scikit-learn
+2. Run the application:python app.py
+3. Open in browser:http://127.0.0.1:5000/
+## 📌 Author
+Prameela K
+## 🔗 GitHub Repository
+https://github.com/prameela1017/CodeAlpha_FAQChatbot
